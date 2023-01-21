@@ -30,6 +30,11 @@ aside{
     float:right;
     min-height:400px;
 }
+img{
+    width:95%;
+    height:100px;
+    padding:5px; 
+}
 @media screen and (max-width:600px){
     Section{
         width:95%;
